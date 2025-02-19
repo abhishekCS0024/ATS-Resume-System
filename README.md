@@ -22,5 +22,5 @@ Ensure you have Python (>=3.8) installed on your system.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Gen-Z-ATS.git
-   cd Gen-Z-ATS
+   git clone [https://github.com/yourusername/Gen-Z-ATS.git](https://github.com/abhishekCS0024/ATS-Resume-System)
+
